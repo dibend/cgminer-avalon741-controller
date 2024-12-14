@@ -150,7 +150,7 @@ Run the miner with specific arguments:
 
 If you find this project helpful, consider donating:
 
-- **Bitcoin (BTC)**: `your-btc-address-placeholder`
-- **Bitcoin Legacy (BTC Legacy)**: `your-btc-legacy-address-placeholder`
+- **Bitcoin (BTC)**: `bc1q8jwd2qayh9tlzl9vkdltf8c7dv4wr4j69flhl7`
+- **Bitcoin Legacy (BTC Legacy)**: `16XVRPsGkvfi5tYowoJXkeqvbuZWmv7gW2`
 
 Thank you for your support!

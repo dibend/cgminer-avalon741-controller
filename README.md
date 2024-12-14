@@ -93,6 +93,18 @@ To customize your mining setup:
 
 ---
 
+## Donations
+
+If you find this software useful, please consider donating to support further development:
+
+- **Bitcoin (BTC):** `bc1q8jwd2qayh9tlzl9vkdltf8c7dv4wr4j69flhl7`
+- **Bitcoin Legacy (BTC Legacy):** `16XVRPsGkvfi5tYowoJXkeqvbuZWmv7gW2`
+- **Litecoin (LTC):** `ltc1qtxvy57u89tphvnaj6drruj8cqj4xssykv3z6f4`
+
+Your contributions are greatly appreciated and help keep this project alive!
+
+---
+
 ## Acknowledgements
 
 This project is based on the original [cgminer](https://github.com/Canaan-Creative/cgminer) by [Canaan](https://canaan.io). All credit for the original software goes to its respective authors and maintainers.

@@ -6,7 +6,7 @@ This is a web-based interface for interacting with CGMiner. It allows you to sen
 
 The following files and folders are part of this project:
 
-- `app.py`: The main FastAPI application file.
+- `cgminer_web_app.py`: The main FastAPI application file.
 - `templates/`: Contains HTML templates for the web UI.
   - `index.html`: The main page where commands can be submitted.
   - `result.html`: Displays the parsed JSON output in a clean format.

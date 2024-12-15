@@ -29,13 +29,13 @@ pip install fastapi uvicorn
 ### 3. Run the Application
 Use **Uvicorn** to start the FastAPI application:
 ```bash
-uvicorn cgminer_web_app:app --reload --host 127.0.0.1 --port 8000
+uvicorn cgminer_web_app:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ### 4. Access the Web App
 Open your browser and go to:
 ```
-http://127.0.0.1:8000
+http://server-ip-or-hostname:8000
 ```
 
 ### 5. Interact with the CGMiner API

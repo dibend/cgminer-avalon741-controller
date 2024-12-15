@@ -10,9 +10,7 @@ The following files and folders are part of this project:
 - `templates/`: Contains HTML templates for the web UI.
   - `index.html`: The main page where commands can be submitted.
   - `result.html`: Displays the parsed JSON output in a clean format.
-- `static/`: Contains static files such as custom CSS for styling.
-  - `styles.css`: Custom styling for the Bitcoin-themed web UI.
-
+    
 ## How to Use
 
 ### 1. Clone the Repository

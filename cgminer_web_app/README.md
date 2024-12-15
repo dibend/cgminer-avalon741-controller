@@ -1,6 +1,6 @@
 # .
 
-This is a web application developed with FastAPI and Bootstrap.
+This directory contains a web-based application for interacting with CGMiner.
 
 ## Project Structure
 

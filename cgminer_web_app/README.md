@@ -3,6 +3,8 @@
 ## Demo images:
 
 <img src="https://njweb.solutions/img/Screen3.jpg" alt="demo screenshot">
+<img src="https://njweb.solutions/img/Screen2.jpg" alt="demo screenshot">
+<img src="https://njweb.solutions/img/Screen1.jpg" alt="demo screenshot">
 This is a web-based interface for interacting with CGMiner. It allows you to send commands to CGMiner (`summary`, `pools`, `restart`) and view the parsed JSON responses in a user-friendly format.
 
 ## Project Structure
